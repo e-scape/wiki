@@ -1,5 +1,5 @@
 {
-"name": "isnowfy",
+"name": "e-scape",
 "number_of_posts_per_page": 7,
 "disqus_shortname": "",
 "posts": [
@@ -16,7 +16,7 @@
         "tags": "test with space"
         },
         {
-        "title": "这是个测试的标题",
+        "title": "テスト",
         "path": "/",
         "date": "2012-07-01",
         "tags": "test with space"
